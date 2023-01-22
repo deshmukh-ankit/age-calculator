@@ -8,6 +8,10 @@
 body{
     background-color: rgb(119, 212, 255);
 }
+h1{
+    text-align:center;
+    margin: 15px auto;
+}
 .container{
     width: 40%;
     min-width: 450px;
